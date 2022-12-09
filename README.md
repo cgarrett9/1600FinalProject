@@ -21,3 +21,34 @@ $$ 1 + 0 = 1 $$
 $$ 1 + 1 = 0  (Carry  1) $$
 
 $$ 1 + 1 + 1 = 1 (Carry 1) $$
+
+Starting from the right side of the equation.
+
+$$ 0 + 1 = 1 $$
+
+Simple enough. Lets move to the next one.
+
+$$ 1 + 0 = 1 $$
+
+Same thing. Lets keep moving left.
+
+$$ 1 + 1 = 0 $$
+
+1 + 1 usually equals 2, but in binary, it will equal zero, but lets not forget to carry the 1
+
+$$ 1 + 0 + 0 = 1 $$
+
+Nothing to carry over. On to the next.
+
+$$ 1 + 1 = 0 $$
+
+Finally, carry the 1 to the far right.
+
+$$ 1 + 0 + 0 = 1 $$
+
+This gives us an answer of
+
+$$ 101011 $$
+
+Keep these rules in mind and adding binary numbers will become another skill you can learn.
+
