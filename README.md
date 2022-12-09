@@ -10,11 +10,14 @@ To start, lets look at the rules of adding these numbers together.
 
 First, write the two numbers you are adding together vertical like this
 
-$$ 10110 /over 10101 $$
+$$ 10110 \over 10101 $$
 
 When adding together two numbers, it is important to follow these rules.
 
 $$ 0 + 0 = 0 $$
+
 $$ 1 + 0 = 1 $$
+
 $$ 1 + 1 = 0 Carry 1 $$
+
 $$ 1 + 1 + 1 = 1 Carry 1 $$
